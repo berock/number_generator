@@ -1,5 +1,5 @@
 # number_generator
-number generator
+number generator that generates numbers between a user inputed starting number and a user inputted ending number.
 
 # starting prompt
 What number do you want to start with?
